@@ -118,3 +118,13 @@ This project strengthened my understanding of how messaging should adapt to diff
 While the flyer focused on generating awareness and interest in a free hearing assessment, the landing page provided more detailed service information and guided potential customers towards booking an appointment.
 
 **Role:** Copywriting and marketing content development.
+
+## Project Visuals
+
+### Promotional Flyer Advertisement
+
+![Interhearing Flyer](./interhearing-flyer.jpg)
+
+### Landing Page Design
+
+![Interhearing Landing Page](./interhearing-landing-page.jpg)
