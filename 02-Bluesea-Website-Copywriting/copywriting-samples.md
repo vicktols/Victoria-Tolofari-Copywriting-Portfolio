@@ -22,6 +22,11 @@ From flights and hotel bookings to visa assistance and holiday packages, we help
 
 **Start Planning Your Next Trip**
 
+### Homepage Visuals
+
+![Bluesea Homepage 1](./homepage1.png)
+
+![Bluesea Homepage 2](./homepage2.png)
 ---
 
 ## 2. Christmas Holiday Packages
@@ -40,6 +45,9 @@ Start planning early and make this Christmas one worth remembering.
 
 **CTA: Explore Christmas Packages**
 
+### Christmas Package Visual
+
+![Christmas Packages](./christmas%20packages.png)
 ---
 
 ## 3. New Year Packages
@@ -88,6 +96,16 @@ Whether you're celebrating an anniversary, planning a romantic escape, or simply
 
 **CTA: Explore Couples' Packages**
 
+### Couples' Package Visual
+
+![Couples Packages](./couples%20packages.png)
+
+
+### Call-to-Action Examples
+
+![Call to Action Example 1](./CTA.png)
+
+![Call to Action Example 2](./CTA2.png)
 ---
 
 ## Copywriting Skills Demonstrated
